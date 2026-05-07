@@ -76,7 +76,7 @@ const COPY = {
     stats: [
       ['6+', 'Research Projects'],
       ['1', 'Publication (ACE)'],
-      ['3.8', 'GPA (UD)'],
+      ['4.1', 'GPA (SWUFE)'],
       ['3', 'International Programs'],
     ],
     theme: 'Theme',
